@@ -1,0 +1,5 @@
+utils\ReadiniFile.class
+pageObjects\Wrappers.class
+pageObjects\SearchPage_Page.class
+pageObjects\Baseclass.class
+utils\ReadConfig.class
